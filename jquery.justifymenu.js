@@ -1,5 +1,16 @@
-// jQuery plugin for filling the space within parent element 
-// by increasing padding of floated child elements
+
+/*
+ * jQuery Justify Menu Plugin
+ *
+ * For filling the space within parent element 
+ * by increasing padding of floated child elements
+ * 
+ * Copyright (c) 2012 Pekka Turtola (http://turtola.net/musiikki/)
+ *
+ * Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
+ *
+ * Version : 0.1.2
+ */
 (function($) {
     
     $.fn.justifyMenu = function(options) {

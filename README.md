@@ -30,7 +30,7 @@ The targeting menu might be e.g.
     </li>
 </ul>
 ```
-Apply then the plugin in sites js
+Apply then the plugin in sites JS
 ```
 jQuery(function($) {
     $('#main-menu').justifyMenu();
