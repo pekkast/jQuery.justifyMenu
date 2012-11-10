@@ -3,6 +3,8 @@ jQuery Plugin to Justify Menu
 
 A jQuery plugin to justify elements in a container to fill the entire horizontal space in each row
 
+<img src="https://raw.github.com/pekkast/jQuery.justifyMenu/master/before-after.png" />
+
 Installation
 ------------
 To install this plugin first include jQuery and the justifyMenu JS files
